@@ -3,6 +3,7 @@
 ## Overview
 **Blind Sense: Real-Time Object Detection and Audio Assistance for Visually Impaired** is an AI-powered assistive system designed to support visually impaired individuals by providing real-time audio feedback about their indoor environment. Utilizing an ESP32 camera module and the YOLO object detection algorithm, the system identifies and announces objects in the user's surroundings.
 
+---
 
 ## Features
 
@@ -15,6 +16,7 @@
 - **Object Search**: Locates a specific object within the camera frame.
 - **Navigation**: Assists in basic navigation with directional support.
 
+---
 
 ## Project Structure
 
@@ -33,6 +35,7 @@
 - **object_search.py** – Locates specific object in frame  
 - **requirements.txt** – Python package dependencies  
 
+---
 
 ## ESP32 and Arduino Connection
 
@@ -42,8 +45,7 @@
 
 ![Sample Output](sample/sample_output.png)
 
-
-
+---
 
 ## How to Run
 
