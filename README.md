@@ -36,11 +36,11 @@
 
 ## ESP32 and Arduino Connection
 
-![ESP32 and Arduino Connection](sample/esp32_arduino_connection.png)
+<img src="sample/esp32_arduino_connection.png" alt="ESP32 and Arduino Connection" width="700"/>
 
 ## Sample Output
 
-![Sample Output](sample/sample_output.png)
+<img src="sample/sample_output.png" alt="Sample Output" width="700"/>
 
 
 ## How to Run
