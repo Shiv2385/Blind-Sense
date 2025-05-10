@@ -45,11 +45,11 @@
 
 ## How to Run
 
-1. **Download Model Files**
+1. **Download Required Files**
 
-You can download model files as zip file from the link below and paste files in model folder:
+You can download utils, models and __pycache__ files as zip file from the link below and paste files in respective folders:
 
-[📦 Download model.zip from Google Drive](https://drive.google.com/file/d/1xqJr9xGKuk5CE7TSfjCH1FtRDqMu8e9Z/view?usp=drive_link)
+[📦 Download files.zip from Google Drive](https://drive.google.com/file/d/16NASGA2nJ4HvKtGVAjmW05p4aVzmnkrF/view?usp=drive_link)
 
 
 2. **Install Requirements**
