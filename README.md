@@ -34,6 +34,17 @@
 - **requirements.txt** – Python package dependencies  
 
 
+## ESP32 and Arduino Connection
+
+![ESP32 and Arduino Connection](sample/esp32_arduino_connection.png)
+
+## Sample Output
+
+![Sample Output](sample/sample_output.png)
+
+
+
+
 ## How to Run
 
 1. **Install Requirements**
