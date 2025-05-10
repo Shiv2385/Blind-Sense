@@ -1,0 +1,14 @@
+opencv-python
+ultralytics
+torch
+numpy
+pyttsx3
+pyaudio
+speechrecognition
+requests
+pillow
+torchvision
+torchaudio
+easyocr
+imutils
+openai
