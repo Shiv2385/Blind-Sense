@@ -45,15 +45,22 @@
 
 ## How to Run
 
-1. **Install Requirements**
+1. **Download Model Files**
+
+You can download model files as zip file from the link below and paste files in model folder:
+
+[📦 Download model.zip from Google Drive](https://drive.google.com/file/d/1xqJr9xGKuk5CE7TSfjCH1FtRDqMu8e9Z/view?usp=drive_link)
+
+
+2. **Install Requirements**
    ```bash
    pip install -r requirements.txt
 
-2. **Run the Main Program**
+3. **Run the Main Program**
    ```bash
    python main.py
 
-3. **Speak Commands**
+4. **Speak Commands**
 
   "detection" – Start object detection.
 
