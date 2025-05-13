@@ -47,7 +47,7 @@
 
 1. **Download Required Files**
 
-You can download utils, models and __pycache__ files as zip file from the link below and paste files in respective folders:
+Clone the repo and download utils, models and __pycache__ files as zip file from the link below and paste files in respective folders:
 
 [📦 Download files.zip from Google Drive](https://drive.google.com/file/d/16NASGA2nJ4HvKtGVAjmW05p4aVzmnkrF/view?usp=drive_link)
 
